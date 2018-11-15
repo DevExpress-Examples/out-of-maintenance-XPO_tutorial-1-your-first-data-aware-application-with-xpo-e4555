@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ConnectionHelper.cs](./CS/XpoTutorial1/MyDataModelCode/ConnectionHelper.cs) (VB: [ConnectionHelper.vb](./VB/XpoTutorial1/MyDataModelCode/ConnectionHelper.vb))
+* [Customer.cs](./CS/XpoTutorial1/MyDataModelCode/Customer.cs) (VB: [Customer.Designer.vb](./VB/XpoTutorial1/MyDataModelCode/Customer.Designer.vb))
+* [Customer.Designer.cs](./CS/XpoTutorial1/MyDataModelCode/Customer.Designer.cs) (VB: [Customer.Designer.vb](./VB/XpoTutorial1/MyDataModelCode/Customer.Designer.vb))
+* [Program.cs](./CS/XpoTutorial1/Program.cs) (VB: [Program.vb](./VB/XpoTutorial1/Program.vb))
+* [XtraForm1.cs](./CS/XpoTutorial1/XtraForm1.cs) (VB: [XtraForm1.vb](./VB/XpoTutorial1/XtraForm1.vb))
+<!-- default file list end -->
 # Tutorial 1 - Your First Data-Aware Application with XPO
 
 
